@@ -1,18 +1,15 @@
-## Getting Started
+This app shows the conversion for four metric measurments.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+    1. km to miles
+    2. kg to pounds
+    3. grams to ounces
+    4. mm to inches
 
-## Folder Structure
+An example of how it works may be typing in the command line
 
-The workspace contains two folders by default, where:
+    '1 kg = lbs'
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Then it will tell how how many pounds are in 1 kilogram.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+To exit the program, type 'exit' or '-1'.
