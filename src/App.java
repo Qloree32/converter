@@ -28,7 +28,7 @@ public class App {
                 System.out.println("1 mm = 0.0393701 inches");
             } else {
                 
-                System.out.println("Your input can't be processed, please input another query.");
+                System.out.println("Your input cannot be processed, please input another query.");
             }
         }
 

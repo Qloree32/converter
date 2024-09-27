@@ -14,4 +14,8 @@ Then it will tell how how many pounds are in 1 kilogram.
 
 To exit the program, type 
 
-    exit or -1
+    exit
+    
+Or
+
+    -1
